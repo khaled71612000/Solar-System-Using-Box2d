@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Kspades\Desktop\proj phy\work\work\Source.cpp(24,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kspades\Desktop\proj phy\work\work\Source.cpp(49,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kspades\Desktop\proj phy\work\work\Source.cpp(65,75): warning C4305: 'argument': truncation from 'double' to 'float'
+  work.vcxproj -> C:\Users\Kspades\Desktop\proj phy\work\Debug\work.exe
